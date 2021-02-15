@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SK.Api.Core</id>
+    <version>1.0.0</version>
+    <authors>Sreejan Kumar</authors>
+    <owners>Sreejan Kumar</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Command pattern to implement Web Api's</description>
+    <releaseNotes>Inital Release</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>SK.Logging</tags>
+    <projectUrl>https://github.com/sreejankumar/Api.Core</projectUrl>
+    <dependencies>
+      <group targetFramework="netstandard2.1">
+        <dependency id="SK.Logging" version="1.0.1"/>
+        <dependency id="Microsoft.AspNetCore.Mvc" version="2.2.0"/>
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\netstandard2.1\Api.Core.dll" target="lib\netstandard2.1"/>
+  </files>
+</package>

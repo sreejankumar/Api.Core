@@ -1,0 +1,4 @@
+/src/libs/Api.Core/bin/Debug/*
+/src/libs/Api.Core/obj/Debug/netstandard2.1/*
+/src/libs/Api.Core/obj/*
+/src/solutions/.idea/.idea.Api.Core/.idea/*
