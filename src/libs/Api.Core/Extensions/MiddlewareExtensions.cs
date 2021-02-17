@@ -1,5 +1,5 @@
 ﻿using Api.Core.Middleware;
-using CloudCall.Lambda.Api.Core.Middleware.CustomResponseHeaders;
+using Api.Core.Middleware.CustomResponseHeaders;
 using Logging.Middleware;
 using Microsoft.AspNetCore.Builder;
 
