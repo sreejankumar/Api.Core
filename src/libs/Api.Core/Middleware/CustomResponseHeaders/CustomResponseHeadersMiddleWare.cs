@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 
-namespace CloudCall.Lambda.Api.Core.Middleware.CustomResponseHeaders
+namespace Api.Core.Middleware.CustomResponseHeaders
 {
     public class CustomResponseHeadersMiddleWare
     {

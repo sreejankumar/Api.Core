@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CloudCall.Lambda.Api.Core.Middleware.CustomResponseHeaders
+namespace Api.Core.Middleware.CustomResponseHeaders
 {
     public class CustomResponseHeadersPolicy
     {
